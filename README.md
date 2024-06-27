@@ -8,11 +8,11 @@
 - [Contribuição](#Contribuição)
 - [Contato](#Contato)
 
-## Instalação (Instruções)
+## Instalação
 
-## Uso (Instruções)
+## Uso
 
-## Contribuição (Como contribuir para o projeto)
+## Contribuição
 1. Faça um fork do projeto
 2. Crie a sua branch ('git checkout -b nome_do_projeto')
 3. Faça um commit ('git commit -m "Mensagem"')
